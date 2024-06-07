@@ -19,15 +19,15 @@ Please note that I will not be sharing the bash scripts used during the course. 
 
 The course is divided into several sections, each focusing on different aspects of relational databases:
 
-1. **Learn Bash by Building a Boilerplate** 170 Questions
-2. **Learn Relational Databases by Building a Mario Database** 165 cours
-3. **Learn Bash Scripting by Building Five Programs** 222 Questions
-4. **Learn SQL by Building a Student Database: Part 1** 140 Questions
-5. **Learn SQL by Building a Student Database: Part 2** 140 Questions
-6. **Learn Advanced Bash by Building a Kitty Ipsum Translator**	140 Questions
-7. **Learn Bash and SQL by Building a Bike Rental Shop** 210 Questions
-8. **Learn Nano by Building a Castle** 40 Questions
-9. **Learn Git by Building an SQL Reference Object** 240 Questions
+1. **Learn Bash by Building a Boilerplate** 170 lesson 
+2. **Learn Relational Databases by Building a Mario Database** 165 lesson 
+3. **Learn Bash Scripting by Building Five Programs** 222 lesson 
+4. **Learn SQL by Building a Student Database: Part 1** 140 lesson 
+5. **Learn SQL by Building a Student Database: Part 2** 140 lesson 
+6. **Learn Advanced Bash by Building a Kitty Ipsum Translator**	140 lesson 
+7. **Learn Bash and SQL by Building a Bike Rental Shop** 210 lesson 
+8. **Learn Nano by Building a Castle** 40 lesson 
+9. **Learn Git by Building an SQL Reference Object** 240 lesson 
 
 ## Projects
 
