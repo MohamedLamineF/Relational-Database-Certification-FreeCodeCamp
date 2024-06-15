@@ -16,12 +16,12 @@ alter table second_table drop column username;
 \d second_table;
 alter table second_table drop column id;
 \d second_table;
-\d
+
 drop table second_table;
 drop table first_table;
-\l
+
 alter database first_database rename to mario_database;
-\l
+
 create table characters();
 alter table characters add column character_id serial;
 alter table characters add column name VARCHAR(30) NOT NULL;
@@ -104,5 +104,4 @@ INSERT INTO character_actions(character_id, action_id) values(1,1),(1,2),(1,3);
 
 SELECT * FROM characters FULL JOIN more_info ON characters.character_id = more_info.character_id;
 SELECT * FROM characters FULL JOIN sounds ON characters.character_id = sounds.character_id;
-
 SELECT * FROM character_actions FULL JOIN actions ON character_actions.action_id = actions.action_id FULL JOIN characters ON characters.character_id = character_actions.character_id;
