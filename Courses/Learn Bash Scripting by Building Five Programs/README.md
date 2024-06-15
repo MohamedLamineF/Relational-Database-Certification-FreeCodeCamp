@@ -1,7 +1,3 @@
-To fix the table of contents in Markdown, make sure that the anchor links match the actual section titles. Here’s the corrected version:
-
----
-
 ## Learn Bash Scripting by Building Five Programs
 
 This freeCodeCamp course is designed to introduce you to the basics of Bash scripting by guiding you through the creation of five programs.
