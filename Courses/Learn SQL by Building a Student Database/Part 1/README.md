@@ -1,4 +1,4 @@
-# Learn SQL by Building a Student Database - Summary
+# Learn SQL by Building a Student Database - Part 1
 
 This course, part of the freeCodeCamp curriculum (Relational database).
 Below is a summary of the steps involved in the course, which you can follow along to build your own student database. You can find my code for this tutorial in this repository.
