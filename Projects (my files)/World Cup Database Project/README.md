@@ -7,7 +7,7 @@ This project involves creating a database to store information about the final t
 2. [Part 1: Create the Database](#part-1-create-the-database)
 3. [Part 2: Insert the Data](#part-2-insert-the-data)
 4. [Part 3: Query the Database](#part-3-query-the-database)
-%. [Submission Instructions](#submission-instructions)
+5. [Submission Instructions](#submission-instructions)
 
 
 ## Project Structure
