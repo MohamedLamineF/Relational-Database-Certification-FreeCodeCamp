@@ -13,7 +13,7 @@ This repository is organized by the lessons and projects covered in the course.
 
 This repository contains all my code used in the FreeCodeCamp Relational Database Certification course. The course covers various topics related to relational databases, SQL, and database design.
 
-Please note that I will not be sharing the bash scripts used during the course. Additionally, I used ChatGPT to generate table rows for the projects to ensure accuracy and consistency.
+Please note that I will not be sharing the bash scripts used during the course. Additionally, I used ChatGPT to generate table rows for the projects to ensure accuracy and consistency. I also used AI to reorganize the README files for both my courses and projects.
 
 ## Course Structure
 
